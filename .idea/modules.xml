@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Animal/Animal.iml" filepath="$PROJECT_DIR$/Animal/Animal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculadora/Calculadora.iml" filepath="$PROJECT_DIR$/Calculadora/Calculadora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Carro/Carro.iml" filepath="$PROJECT_DIR$/Carro/Carro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassesA.iml" filepath="$PROJECT_DIR$/ClassesA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Contapoupanca/Contapoupanca.iml" filepath="$PROJECT_DIR$/Contapoupanca/Contapoupanca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Funcionario/Funcionario.iml" filepath="$PROJECT_DIR$/Funcionario/Funcionario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Professor/Professor.iml" filepath="$PROJECT_DIR$/Professor/Professor.iml" />
+    </modules>
+  </component>
+</project>
